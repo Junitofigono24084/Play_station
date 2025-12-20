@@ -20,6 +20,8 @@ PlayStation Hub adalah aplikasi berbasis Python (CLI) yang menampilkan informasi
    python main.py
 
 ## Kontributor
-- Maintainer: Junitog igono
+- Maintainer: Junitof igono
 - Anggota 1 : M. ALDY DJUFRI
-- Anggota 2 
+- Anggota 2 : AL ADAWIA
+- Anggota 3 : Nuryanti Umanailo
+  
