@@ -14,4 +14,4 @@ PlayStation Hub adalah aplikasi berbasis Command Line Interface (CLI) yang diran
 ## 🚀 Cara Menjalankan
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/ps-hub.git
+   https://github.com/Junitofigono24084
