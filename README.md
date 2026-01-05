@@ -1,26 +1,17 @@
-# PlayStation Hub - Python Edition
+# 🎮 PlayStation Hub - CLI Edition
 
-## Deskripsi
-PlayStation Hub adalah aplikasi berbasis Python (CLI) yang menampilkan informasi konsol dan game PlayStation, dilengkapi fitur pencarian dan wishlist.
+A simple and efficient PlayStation information center built with Python.
 
-## Fitur
-- Daftar game PlayStation
-- Informasi konsol PlayStation
-- Pencarian game
-- Wishlist game
+## 📝 Deskripsi
+PlayStation Hub adalah aplikasi berbasis Command Line Interface (CLI) yang dirancang untuk memudahkan penggemar PlayStation dalam menjelajahi katalog game, mengecek informasi konsol, dan mengelola daftar keinginan (wishlist) mereka secara lokal.
 
-## Teknologi
-- Python 3
-- Git & GitHub
+## ✨ Fitur Ungkapan
+- **Smart Search**: Mencari game favorit hanya dengan potongan nama.
+- **Persistent Wishlist**: Data wishlist tersimpan dalam format JSON (tidak hilang saat aplikasi ditutup).
+- **Console Database**: Informasi tahun rilis dan spesifikasi harga konsol.
+- **User Friendly**: Validasi input untuk mencegah aplikasi crash.
 
-## Cara Menjalankan
-1. Clone repository
-2. Masuk ke folder project
-3. Jalankan:
-   python main.py
-
-## Kontributor
-- Maintainer: Junitof igono
-- Anggota 1 : M. ALDY DJUFRI
-- Anggota 2 : AL Adawia
-- Anggota 3 : Nuryanti Umanilo
+## 🚀 Cara Menjalankan
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/username/ps-hub.git
